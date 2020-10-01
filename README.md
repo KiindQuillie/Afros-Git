@@ -21,7 +21,7 @@ At that moment i am on a real study and i not be able to devote a lot of time to
 
 Progress:
 
-(CS:GO Event map) 
+CS:GO Event map
 
 * ze_minecraft_adventure_v1_3d [Herobrine Adventure (All levels for 1 round/Custom chapter with herobrine)] - 50%
 
@@ -33,13 +33,13 @@ Progress:
 
 * mg_minecraft_temple [Extreme Temple (All levels for 1 round/Custom chapter with map difficulty, bossess, endings)] - 80%
 
-(CS:GO Important map fix) 
+CS:GO Important map fix
 
 * ze_ponchermonkey_shooter_csgo1 - 0% (still in plans)
 
 * ze_doom3_v1_b4k - 0% (still in plans)
 
-(Garry's mod Campaign) 
+Garry's mod Campaign
 
 * Rizomata: Heaven Falls - 90%
 
