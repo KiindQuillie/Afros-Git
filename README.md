@@ -1,5 +1,7 @@
 # Afros-Git
 
+*This repository in dev...
+
 This repository was created for the CS: GO and Garry's Mod server community.
 
 I am not responsible for the content of my works, there is a possibility that i could have changed or repeated someone's idea.
