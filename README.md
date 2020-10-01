@@ -6,6 +6,8 @@ This repository was created for the CS: GO and Garry's Mod server community.
 
 I am not responsible for the content of my works, there is a possibility that i could have changed or repeated someone's idea.
 
+At that moment i am on a real study and i not be able to devote a lot of time to any work, but i will try to implement what i have planned in my free time. This is just my hobby.
+
 [CS: GO] (Only sourcemod / metamod)
 * Strippers (ZE / MG Maps)
 * Plugins
