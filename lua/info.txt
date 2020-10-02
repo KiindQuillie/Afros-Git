@@ -1,1 +1,1 @@
-
+* You don't need to replace an existing file to another, just paste the code into your existing document at the last lines of the file.
