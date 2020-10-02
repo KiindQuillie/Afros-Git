@@ -29,7 +29,7 @@ CS:GO Event map
 
 * ze_deadcore_v1_3 [Blanch Core (All stages for 1 round/Custom chapter with endings rebalanced for teamwin)] - 0% (still in plans)
 
-* ze_ffxiv_wanderers_palace_v6 [Other ending (Full game without items/Rebalanced ending for teamwin)] - 0% (still in plans)
+* ze_ffxiv_wanderers_palace_v6 [Other ending (Full game with one item heal/Rebalanced ending for teamwin)] - 0% (still in plans)
 
 * mg_minecraft_temple [Extreme Temple (All levels for 1 round/Custom chapter with map difficulty, bossess, endings)] - 80%
 
